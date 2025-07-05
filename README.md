@@ -26,5 +26,3 @@ Projeto de estrutura de banco de dados para uma plataforma de cursos online, des
 ##Futuras melhorias
 
 - Backend em Node.js ou Flask
-- Interface web para o aluno
-- Sistema de login
